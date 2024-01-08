@@ -49,6 +49,7 @@
       "infoForeground": "oldWhite",
       "selectionBackground": "waveBlue2",
       "selectionInactiveBackground": "waveBlue1",
+      "selectionInactiveForeground": "waveAqua1",
       "selectionBackgroundInactive": "waveBlue1",
       "selectionForeground": "fujiWhite",
       "disabledBackground": "sumilnk1",
